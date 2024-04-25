@@ -26,5 +26,5 @@ class TestPage:
 
         self.tear_down()
 
-        def tear_down(self):
-            self.driver.close()
+    def tear_down(self):
+        self.driver.close()
