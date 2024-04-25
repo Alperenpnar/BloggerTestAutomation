@@ -5,7 +5,7 @@ from selenium.common import NoSuchElementException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 
-#asdkjaslkjdasjasadas
+
 class VisitorPageClass:
     # Locatorlar
     noPostMessageCSS = "div[class='no-posts-message']"
